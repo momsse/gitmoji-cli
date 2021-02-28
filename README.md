@@ -1,3 +1,12 @@
+# Fork addition
+
+This fork includes a way to skip prompting info when already filled.
+
+Basically you enable the feature using `--config` or `-g` and you will not be prompted for the info already retrieved.
+
+- Initial (closed) feature request: [gitmoji-cli/issues/534](https://github.com/carloscuesta/gitmoji-cli/issues/534)
+- Initial (closed) PR: [gitmoji-cli/pull/536](https://github.com/carloscuesta/gitmoji-cli/pull/536)
+
 # gitmoji-cli
 
 [![Build Status](https://img.shields.io/github/workflow/status/carloscuesta/gitmoji-cli/CI?style=flat-square)](https://github.com/carloscuesta/gitmoji-cli/actions?query=workflow%3ACI+branch%3Amaster)
